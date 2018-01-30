@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "chlu-wallet-support-js": "https://github.com/ChluNetwork/chlu-wallet-support-js.git",
     "babel-preset-react-native-stage-0": "^1.0.1",
     "chlu-wallet-support-js": "github:ChluNetwork/chlu-wallet-support-js",
     "jest-expo": "23.0.0",

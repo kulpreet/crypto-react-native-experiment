@@ -15,6 +15,6 @@ We use ```react-native run-android``` to run an android version.
 # Status
 
 - [x] Generate mnemonic
-- [ ] Generate keys from mnemonic
+- [x] Generate keys from mnemonic
 - [ ] Create 1-to-1 transaction and sign it
 - [ ] SPV wallet in react native - can it work?
